@@ -2,7 +2,8 @@
 
 Welcome to the **Resume Template** repository! This project provides a modern and elegant HTML and CSS-based resume template designed to help professionals make a standout first impression. Easily tailor this template to showcase your skills, experience, and professional achievements.
 
-![Resume Screenshot](screenshot.png) ![]
+![Resume Screenshot](1.png) 
+![Resume Screenshot](2.png) 
 
 ## Features
 
